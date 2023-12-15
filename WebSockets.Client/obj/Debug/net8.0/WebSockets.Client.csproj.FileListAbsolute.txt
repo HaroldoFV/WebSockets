@@ -1,0 +1,14 @@
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/bin/Debug/net8.0/WebSockets.Client
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/bin/Debug/net8.0/WebSockets.Client.deps.json
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/bin/Debug/net8.0/WebSockets.Client.runtimeconfig.json
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/bin/Debug/net8.0/WebSockets.Client.dll
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/bin/Debug/net8.0/WebSockets.Client.pdb
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.AssemblyInfoInputs.cache
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.AssemblyInfo.cs
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.csproj.CoreCompileInputs.cache
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.dll
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/refint/WebSockets.Client.dll
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.pdb
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/WebSockets.Client.genruntimeconfig.cache
+/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/obj/Debug/net8.0/ref/WebSockets.Client.dll

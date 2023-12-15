@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWqa6AzLBhuuwLRx0OtVfzmvmryJ0u/5QvNpCLKebQfMdRSicE9Z3DsuvvZRM4TxrUv2VORwLqXrzXf42ap2lg==",
+  "success": true,
+  "projectFilePath": "/Users/haroldovinente/Projects/back-end/estudos/web-sockets/webSockets/WebSockets.Client/WebSockets.Client.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.141.0.117:8888/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
